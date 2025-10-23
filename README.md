@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h2>
 
-<img align='right' src="https://i.postimg.cc/Dzbjf47T/4ecfdc1e686a9ef4e390138b14a840b9.jpg" width="230">
+<img align='right' src="https://i.postimg.cc/25M5vMpS/021479d2013154480cfe7c47b1e47f2d.png" width="230">
 
 <p><em>Backend Developer (.NET, C#, SQL, APIs)</em></p>
 
-[![GitHub: Rashad55](https://img.shields.io/badge/-Rashad55-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Rashad55)](https://github.com/Rashad55)
-[![Linkedin: Youssef Rashad](https://img.shields.io/badge/-Youssef%20Rashad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/youssef-rashad-)](http://linkedin.com/in/youssef-rashad-)
-[![Twitter: YoosefRashad](https://img.shields.io/badge/-YoosefRashad-1DA1F2?style=flat-square&logo=X&logoColor=white&link=https://x.com/YoosefRashad)](https://x.com/YoosefRashad)
-[![Website](https://img.shields.io/badge/Portfolio-46a2f1.svg?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://chimerical-souffle-38a65f.netlify.app)](https://chimerical-souffle-38a65f.netlify.app)
+[![GitHub: Rashad55](https://img.shields.io/badge/-Rashad55-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rashad55)
+[![LinkedIn: Youssef Rashad](https://img.shields.io/badge/-Youssef%20Rashad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/youssef-rashad-)
+[![X (Twitter): YoosefRashad](https://img.shields.io/badge/-YoosefRashad-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YoosefRashad)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chimerical-souffle-38a65f.netlify.app)
 
 ---
 
