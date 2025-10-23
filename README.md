@@ -1,5 +1,5 @@
 
-<img align='right' src="https://i.postimg.cc/25M5vMpS/021479d2013154480cfe7c47b1e47f2d.png" width="270">
+<img align='right' src="https://i.postimg.cc/25M5vMpS/021479d2013154480cfe7c47b1e47f2d.png" width="300">
 
 <p><em>Backend Developer (.NET, C#, SQL, APIs)</em></p>
 
@@ -29,8 +29,7 @@ var YoussefRashad = new
     Languages = new[] { "C#", "C++", "Python", "Java", "SQL" },
     Frameworks = new[] { ".NET Core", "Entity Framework", "ASP.NET", "LINQ" },
     Tools = new[] { "Git", "Postman", "Docker", "Visual Studio", "VS Code" },
-    Databases = new[] { "SQL Server", "MySQL", "SQLite" },
-    Concepts = new[] { "OOP", "REST APIs", "Design Patterns", "Clean Architecture" },
-    CurrentlyLearning = "Microservices & Cloud Integration (Azure)",
-    FunFact = "Best code happens after midnight ☕"
+    Concepts = new[] { "OOP", "REST APIs", "Clean Architecture" },
+    Concepts = new[] { "Data Structure", "Algorithm", "Design Patterns", },
+
 };
