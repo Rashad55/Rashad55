@@ -1,6 +1,3 @@
-<h2>
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-</h2>
 
 <img align='right' src="https://i.postimg.cc/25M5vMpS/021479d2013154480cfe7c47b1e47f2d.png" width="230">
 
