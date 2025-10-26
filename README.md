@@ -1,5 +1,5 @@
 
-<img align='right' src="https://i.postimg.cc/25M5vMpS/021479d2013154480cfe7c47b1e47f2d.png" width="300">
+<img align='right' src="https://i.postimg.cc/25M5vMpS/021479d2013154480cfe7c47b1e47f2d.png" width="280">
 
 <p><em>Backend Developer (.NET, C#, SQL, APIs)</em></p>
 
